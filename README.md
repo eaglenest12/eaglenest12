@@ -1,3 +1,4 @@
+
 <h2 align="center">😀Welcome to My Github!😀</h2>
 <h1 align="center">💻Senior Full Stack & Blockchain Developer💻</h1>
 
@@ -5,11 +6,11 @@
 
 <p align="center">
   <div align="left" width="80%">
-    Excellent reputation for resolving problems and improving customer satisfaction. Experienced Web, Mobile, Blockchain Developing with over 5 years of experience in Software Industry managing multimillion dollar. To seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills. Hardworking and driven to work quickly and effectively on projects in all types of environments.	
+    As a seasoned Lead Blockchain Engineer with a robust seven-year track record, I have honed my expertise in developing and deploying decentralized applications and infrastructure on the Ethereum and Solana platforms. My professional journey is marked by a relentless pursuit of knowledge, ensuring I remain at the forefront of blockchain technology advancements. Known for my exceptional problem-solving skills, I skillfully tackle challenges, turning them into chances for development and enhancement. Now, I am looking for a new opportunity where I can leverage my deep technical knowledge and leadership abilities to contribute to a company's success in the dynamic field of blockchain technology. My goal is to join an organization that values innovation, encourages professional growth, and fosters a culture of excellence.
   </div>
   <div>
     <h3 align="left">Skill Set</h3>
-    <p><b>- Front-End: </b> HTML, CSS, JQuery, Bootstrap, React, Vue, Angular, Next, Nuxt, MUI, TailwindCSS, ... </p>
+    <p><b>- Front-End: </b> HTML, CSS, JQuery, Bootstrap, React, Vue, Next, Nuxt, MUI, TailwindCSS, ... </p>
     <p>
       <a href="/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
