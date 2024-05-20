@@ -1,6 +1,8 @@
 
 <h2 align="center">😀Welcome to My Github!😀</h2>
-<h1 align="center">💻Senior Full Stack & Blockchain Developer💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20&%20Blockchain%20Developer;10+%2B%20years%20of%20engineering;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
+</p>
 
 <h3 align="left">About Me</h3>
 
